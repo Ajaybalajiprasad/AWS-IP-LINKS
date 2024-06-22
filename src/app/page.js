@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import styles from './page.module.css'; 
 
 const App = () => {
-  const link = 'http://3.26.150.225:3000/';
+  const link = 'http://65.0.72.48:3000/';
 
 
   const handleClick = () => {
