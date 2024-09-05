@@ -5,7 +5,7 @@ import styles from './page.module.css';
 
 export default function App() {
   const router = useRouter();
-  const link = 'http://15.207.248.212:3000/';
+  const link = 'http://15.206.151.243:3000/';
 
   // Client-side redirection
   if (typeof window !== "undefined") {
